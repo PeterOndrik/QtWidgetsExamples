@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TreeView-Checkbox", "TreeView-Checkbox\TreeView-Checkbox.vcxproj", "{AD8A428A-DC4B-4435-87A0-3E8AECDA1A14}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TreeView-RadioButton", "TreeView-RadioButton\TreeView-RadioButton.vcxproj", "{0E80B83B-1F11-401D-9D29-318C655CCC1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD8A428A-DC4B-4435-87A0-3E8AECDA1A14}.Debug|x64.ActiveCfg = Debug|x64
+		{AD8A428A-DC4B-4435-87A0-3E8AECDA1A14}.Debug|x64.Build.0 = Debug|x64
+		{AD8A428A-DC4B-4435-87A0-3E8AECDA1A14}.Release|x64.ActiveCfg = Release|x64
+		{AD8A428A-DC4B-4435-87A0-3E8AECDA1A14}.Release|x64.Build.0 = Release|x64
+		{0E80B83B-1F11-401D-9D29-318C655CCC1F}.Debug|x64.ActiveCfg = Debug|x64
+		{0E80B83B-1F11-401D-9D29-318C655CCC1F}.Debug|x64.Build.0 = Debug|x64
+		{0E80B83B-1F11-401D-9D29-318C655CCC1F}.Release|x64.ActiveCfg = Release|x64
+		{0E80B83B-1F11-401D-9D29-318C655CCC1F}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42F24D61-BD1B-4961-BFCD-0B6BD3AAD798}
+	EndGlobalSection
+EndGlobal
